@@ -1,6 +1,5 @@
 # Digital-Well-Being-and-Responsible-Technology-Use-
 
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
